@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodyneKen
-- 👀 I’m interested in paralellism, algorithms, 
-- 🌱 I’m currently learning algorithm evaluation, Coq theorem proving, C++, Game theory
+- 👀 I’m interested in parallelism, algorithms,  
+- 🌱 I’m currently learning algorithm evaluation, Coq theorem proving, C++, Game theory, training human neural networks (teaching!)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
